@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1664261936 source:c:\code\mathfun\div.c
+	"mymath.h"
+
+1664262161 c:\code\mathfun\mymath.h
+	<stdio.h>
+	<stdlib.h>
+
+1664261945 source:c:\code\mathfun\mul.c
+	"mymath.h"
+
+1664261940 source:c:\code\mathfun\sub.c
+	"mymath.h"
+
+1664269364 source:c:\code\mathfun\womain.c
+	"mymath.h"
+
